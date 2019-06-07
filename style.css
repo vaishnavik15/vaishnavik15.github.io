@@ -1,6 +1,6 @@
  h1{
-                color:blue;
-                background:yellow;
+                color:red;
+                background:white;
             }
             #first{
                 color: pink;
@@ -11,9 +11,9 @@ body{
 }
 #box{
      background:green;
-      width:500px;
- mergin:100px auto;
- padding:50px;
+      width:1000px;
+ mergin:500px auto;
+ padding:500px;
 }
 
         
