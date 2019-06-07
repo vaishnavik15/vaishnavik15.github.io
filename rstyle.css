@@ -1,35 +1,8 @@
 h1{
-       color:pink;
-       background:blue;
-   }
-h3{
        color:yellow;
-       background:grey;
-}
-table{
-       color:red;
-}
-body{
-       background:#FFF78F;
+       background:blue;
 }
 #first{
-       color:purple;
-}
-#second{
-       color:lavender;
-}
-#third{
-       color:green;
-}
-#fourth{
-       color:orange;
-}
-#fifth{
-       color:peach;
-}
-#box{
-       background:pink;
-       width:500px;
-       margin:100px auto;
-       padding:50px;
+       color:pink;
+       background:purple;
 }
