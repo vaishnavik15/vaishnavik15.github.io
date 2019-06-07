@@ -1,13 +1,12 @@
  h1{
-                color:red;
-                background:white;
+                color:blue;
             }
             #first{
                 color: pink;
                 background:purple;
             }
 body{
-    background:#FFCBCB;
+    background:#F7FF56;
 }
 #box{
      background:green;
