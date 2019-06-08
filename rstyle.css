@@ -6,20 +6,8 @@ body{
 #first{
        color:pink;
 }
-#second{
-       color:yellow;
-}
-#third{
-       color:yellow;
-}
-#fourth{
-       color:yellow;
-}
-#fifth{
-       color:yellow;
-}
        #box{
-              width:1000px;
+              width:100px;
               margin:100px auto;
-              padding:50ox;
+              padding:100ox;
        }
