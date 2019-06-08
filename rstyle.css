@@ -1,5 +1,5 @@
 h1{
-       color:blue;
+       color:yellow;
 }
 body{
        background:#F2F4F6
@@ -7,14 +7,19 @@ body{
        color:pink;
 }
 #second{
-       color:white;
+       color:yellow;
 }
 #third{
        color:yellow;
 }
 #fourth{
-       color:green;
+       color:yellow;
 }
 #fifth{
-       color:grey;
+       color:yellow;
 }
+       #box{
+              width:1000px;
+              margin:100px auto;
+              padding:50ox;
+       }
