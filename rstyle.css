@@ -1,9 +1,20 @@
 h1{
        color:blue;
 }
+body{
+       background:#F2F4F6
 #first{
        color:pink;
 }
 #second{
-       color:orange;
+       color:white;
+}
+#third{
+       color:yellow;
+}
+#fourth{
+       color:green;
+}
+#fifth{
+       color:grey;
 }
