@@ -1,16 +1,13 @@
  h1{
                 color:yellow;
             }
-            #first{
-                color: pink;
-            }
 body{
     background:#FFA1C5;
 }
 #box{
       width:1000px;
  mergin:100px auto;
- padding:50px;
+ padding:200px;
 }
 
         
